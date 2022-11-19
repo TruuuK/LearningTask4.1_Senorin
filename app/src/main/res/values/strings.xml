@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="app_title">Grade Calculator</string>
+    <string name="txt_desc">To calculate your Total Grades for Three Terms, input your Prelim, Midterm and Endterm Grades.</string>
+    <string name="txt_pre">Prelim Grade :</string>
+    <string name="txt_mid">Midterm Grade :</string>
+    <string name="txt_end">Endterm Grade :</string>
+    <string name="txt_input">Enter Grade</string>
+    <string name="button">Compute</string>
+    <string name="txt_compute_result">Grade Result</string>
+    <string name="txt_close">Close</string>
+</resources>
